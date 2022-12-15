@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\росен\source\repos\lb16\lb16\Source.c(22,3): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\росен\source\repos\lb16\lb16\Source.c(33,3): warning C4098: main: функция типа "void", возвращающая значение
+  lb16.vcxproj -> C:\Users\росен\source\repos\lb16\x64\Debug\lb16.exe
